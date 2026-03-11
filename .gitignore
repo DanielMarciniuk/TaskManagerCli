@@ -1,0 +1,10 @@
+bin/
+obj/
+.idea/
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+*.log
+.env
