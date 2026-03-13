@@ -22,7 +22,7 @@ Permite criar, listar, concluir e remover tarefas, salvando os dados em um arqui
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/TaskManagerCli.git
+git clone https://github.com/DanielMarciniuk/TaskManagerCli.git
 ```
 
 Entre na pasta do projeto:
@@ -61,7 +61,7 @@ Allows you to create, list, complete, and remove tasks, saving the data in a **J
 Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/TaskManagerCli.git
+git clone https://github.com/DanielMarciniuk/TaskManagerCli.git
 ```
 
 Enter the project folder:
